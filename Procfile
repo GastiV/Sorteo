@@ -1,1 +1,1 @@
-web: py sorteo.py
+web: python3 sorteo.py
